@@ -1,0 +1,1514 @@
+.version.index /* version checker */
+{
+	color: #0000FE;
+	background-color: #3B7DE2;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#page
+{
+	border-color: #000000;
+	background-color: transparent;
+	background-image: none;
+	border-width: 0px;
+	margin-right: auto;
+	z-index: 1;
+	width: 100%;
+	margin-left: auto;
+}
+
+#u376-4
+{
+	border-style: solid;
+	color: #FFFFFF;
+	border-color: #1CDFFF;
+	background-color: transparent;
+	line-height: 46px;
+	font-weight: 400;
+	font-size: 38px;
+	font-family: poiret-one, sans-serif;
+	text-align: center;
+	border-width: 0px 0px 1px;
+}
+
+#tab-panelu230
+{
+	background-color: #000000;
+	border-color: transparent;
+	border-width: 0px;
+}
+
+#u231
+{
+	border-color: transparent;
+	background-color: transparent;
+	border-width: 0px;
+}
+
+#u232
+{
+	border-width: 0px;
+	margin-right: -10000px;
+	border-color: transparent;
+	width: 50%;
+	min-height: 39px;
+	position: relative;
+	background-color: #000000;
+}
+
+#u232:active
+{
+	background-color: transparent;
+	width: 50%;
+	min-height: 39px;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u232:hover,#u232.TabbedPanelsTabSelected
+{
+	width: 50%;
+	border-radius: 0px;
+	background-color: transparent;
+	min-height: 39px;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u236
+{
+	margin-right: -10000px;
+	border-color: transparent;
+	background-color: #000000;
+	min-height: 39px;
+	position: relative;
+	border-width: 0px;
+}
+
+#u236:active
+{
+	background-color: transparent;
+	min-height: 39px;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u236:hover,#u236.TabbedPanelsTabSelected
+{
+	border-radius: 0px;
+	background-color: transparent;
+	min-height: 39px;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u235,#u238
+{
+	background-position: 0px 0px;
+	background-color: transparent;
+	vertical-align: top;
+	margin-right: -10000px;
+	width: 100%;
+	background-repeat: no-repeat;
+	position: relative;
+	background-size: contain;
+}
+
+#u232:hover #u235,#u232:active #u235,#u232.TabbedPanelsTabSelected #u235,#u236:hover #u238,#u236:active #u238,#u236.TabbedPanelsTabSelected #u238
+{
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#u244
+{
+	background-color: transparent;
+}
+
+#u399
+{
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 14px;
+	border-color: #1CDFFF;
+	background-color: transparent;
+	position: relative;
+}
+
+#u399 .clip_frame
+{
+	-webkit-border-radius: 12px 12px 12px 12px;
+}
+
+#u249,#u253
+{
+	background-color: #000000;
+	border-color: transparent;
+	position: relative;
+	border-width: 0px;
+}
+
+#u252-10,#u717-7,#u781-7
+{
+	display: block;
+	position: relative;
+	vertical-align: top;
+}
+
+.TabbedPanelsTab
+{
+	cursor: pointer;
+}
+
+#u481
+{
+	background-position: center center;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	border-width: 0px;
+	background-repeat: no-repeat;
+	position: relative;
+	background-size: cover;
+}
+
+#u481:hover
+{
+	background-position: center center;
+	background-color: transparent;
+	min-height: 0px;
+	margin-right: -10000px;
+	margin-bottom: 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#u482,#u483
+{
+	background-position: center center;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	border-width: 0px;
+	background-repeat: no-repeat;
+	position: relative;
+	background-size: contain;
+}
+
+#u482:hover,#u483:hover
+{
+	background-position: center center;
+	background-color: transparent;
+	min-height: 0px;
+	margin-right: -10000px;
+	margin-bottom: 0px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 801px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 479px;
+		padding-bottom: 21px;
+		max-width: 960px;
+	}
+
+	#pu376-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 20px;
+		width: 100%;
+	}
+
+	#u376-4
+	{
+		z-index: 52;
+		min-height: 47px;
+		position: relative;
+		width: 47.92%;
+		margin-left: 26.05%;
+	}
+
+	#pu222
+	{
+		margin-top: 31px;
+		width: 100%;
+	}
+
+	#u222
+	{
+		z-index: 2;
+		height: 548px;
+		position: relative;
+		margin-right: -10000px;
+		width: 45.11%;
+		background: transparent url("../images/tree-abstract-watercolour-steve-and-jenni-thorp.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#tab-panelu230
+	{
+		z-index: 3;
+		position: relative;
+		margin-right: -10000px;
+		width: 50%;
+		left: 50%;
+	}
+
+	#u231
+	{
+		z-index: 4;
+		position: relative;
+		width: 100%;
+	}
+
+	#u232
+	{
+		z-index: 5;
+	}
+
+	#u235
+	{
+		z-index: 7;
+		background-image: url("../images/u235.png");
+		margin-bottom: -5px;
+	}
+
+	#u235 .fluid_height_spacer
+	{
+		padding-bottom: 18.333333333333332%;
+	}
+
+	#u232:hover #u235
+	{
+		background-image: url("../images/u235-r.png");
+	}
+
+	#u232:active #u235
+	{
+		background-image: url("../images/u235-m.png");
+	}
+
+	#u232.TabbedPanelsTabSelected #u235
+	{
+		background-image: url("../images/u235-a.png");
+	}
+
+	#u236
+	{
+		z-index: 11;
+		width: 50.21%;
+		left: 49.8%;
+	}
+
+	#u236:hover
+	{
+		width: 50.21%;
+	}
+
+	#u236:active
+	{
+		width: 50.21%;
+	}
+
+	#u236.TabbedPanelsTabSelected
+	{
+		width: 50.21%;
+	}
+
+	#u238
+	{
+		z-index: 13;
+		background-image: url("../images/u238.png");
+		margin-bottom: -5px;
+	}
+
+	#u238 .fluid_height_spacer
+	{
+		padding-bottom: 18.25726141078838%;
+	}
+
+	#u236:hover #u238
+	{
+		background-image: url("../images/u238-r.png");
+	}
+
+	#u236:active #u238
+	{
+		background-image: url("../images/u238-m.png");
+	}
+
+	#u236.TabbedPanelsTabSelected #u238
+	{
+		background-image: url("../images/u238-a.png");
+	}
+
+	#u244
+	{
+		z-index: 17;
+		position: relative;
+		width: 100%;
+	}
+
+	#u249
+	{
+		z-index: 18;
+		padding-top: 30px;
+		padding-bottom: 4px;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u399
+	{
+		z-index: 29;
+		width: 35.84%;
+		margin-left: 31.67%;
+	}
+
+	#u399_img
+	{
+		width: 100%;
+	}
+
+	#u252-10
+	{
+		z-index: 19;
+		margin-top: 30px;
+		width: 91.25%;
+		margin-left: 4.59%;
+	}
+
+	#u253
+	{
+		z-index: 31;
+		padding-top: 30px;
+		padding-bottom: 25px;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u717-7
+	{
+		z-index: 32;
+		width: 91.88%;
+		margin-left: 3.96%;
+	}
+
+	#u781-7
+	{
+		z-index: 42;
+		margin-top: 16px;
+		width: 91.88%;
+		margin-left: 3.96%;
+	}
+
+	#u481
+	{
+		z-index: 56;
+		height: 41px;
+		background-image: url("../images/mail-white-transparent-backround.png");
+		width: 3.03%;
+		left: 43.44%;
+	}
+
+	#u481:hover
+	{
+		background-image: url("../images/mail-grey.png");
+		margin-top: 0px;
+		height: 41px;
+		width: 3.03%;
+		margin-left: 0%;
+	}
+
+	#u482
+	{
+		z-index: 57;
+		height: 29px;
+		background-image: url("../images/linkedin-white.png");
+		margin-top: 6px;
+		width: 3.03%;
+		left: 48.55%;
+	}
+
+	#u482:hover
+	{
+		background-image: url("../images/linkedin-3-512.png");
+		margin-top: 6px;
+		height: 29px;
+		width: 3.03%;
+		margin-left: 0%;
+	}
+
+	#u483
+	{
+		z-index: 58;
+		height: 29px;
+		background-image: url("../images/facebook-white-on-black.png");
+		margin-top: 6px;
+		width: 3.03%;
+		left: 53.44%;
+	}
+
+	#u483:hover
+	{
+		background-image: url("../images/icon_facebook_grey.png");
+		margin-top: 6px;
+		height: 29px;
+		width: 3.03%;
+		margin-left: 0%;
+	}
+
+	.verticalspacer
+	{
+		min-height: 1px;
+	}
+}
+
+@media (min-width: 501px) and (max-width: 800px)
+{
+	#muse_css_mq
+	{
+		background-color: #000320;
+	}
+
+	#bp_800.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 475px;
+		padding-bottom: 25px;
+		max-width: 800px;
+	}
+
+	#pu376-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 20px;
+		width: 100%;
+	}
+
+	#u376-4
+	{
+		z-index: 51;
+		min-height: 47px;
+		position: relative;
+		width: 47.88%;
+		margin-left: 26%;
+	}
+
+	#tab-panelu230
+	{
+		z-index: 2;
+		min-height: 543px;
+	}
+
+	#u231
+	{
+		z-index: 3;
+	}
+
+	#u232
+	{
+		z-index: 4;
+	}
+
+	#u235
+	{
+		z-index: 6;
+		background-image: url("../images/u2352.png");
+	}
+
+	#u235 .fluid_height_spacer
+	{
+		padding-bottom: 11%;
+	}
+
+	#u232:hover #u235
+	{
+		background-image: url("../images/u235-r2.png");
+	}
+
+	#u232:active #u235
+	{
+		background-image: url("../images/u235-m2.png");
+	}
+
+	#u232.TabbedPanelsTabSelected #u235
+	{
+		background-image: url("../images/u235-a2.png");
+	}
+
+	#u236
+	{
+		z-index: 10;
+		width: 50.13%;
+		left: 49.88%;
+	}
+
+	#u236:hover
+	{
+		width: 50.13%;
+	}
+
+	#u236:active
+	{
+		width: 50.13%;
+	}
+
+	#u236.TabbedPanelsTabSelected
+	{
+		width: 50.13%;
+	}
+
+	#u238
+	{
+		z-index: 12;
+		background-image: url("../images/u2382.png");
+	}
+
+	#u238 .fluid_height_spacer
+	{
+		padding-bottom: 10.972568578553615%;
+	}
+
+	#u236:hover #u238
+	{
+		background-image: url("../images/u238-r2.png");
+	}
+
+	#u236:active #u238
+	{
+		background-image: url("../images/u238-m2.png");
+	}
+
+	#u236.TabbedPanelsTabSelected #u238
+	{
+		background-image: url("../images/u238-a2.png");
+	}
+
+	#u244
+	{
+		z-index: 16;
+	}
+
+	#u249
+	{
+		z-index: 17;
+		padding-top: 21px;
+	}
+
+	#u399
+	{
+		z-index: 28;
+		width: 25.75%;
+		margin-left: 36.88%;
+	}
+
+	#u399_img
+	{
+		width: 100%;
+	}
+
+	#u252-10
+	{
+		z-index: 18;
+		margin-top: 35px;
+		width: 87.25%;
+		margin-left: 6.38%;
+	}
+
+	#u253
+	{
+		z-index: 30;
+		padding-top: 41px;
+		padding-bottom: 36.049999999999955px;
+	}
+
+	#u717-7
+	{
+		z-index: 31;
+		width: 87.63%;
+		margin-left: 6.25%;
+	}
+
+	#u781-7
+	{
+		z-index: 41;
+		margin-top: 9px;
+		width: 87.63%;
+		margin-left: 6.25%;
+	}
+
+	#tab-panelu230-bw
+	{
+		z-index: 2;
+		min-height: 543px;
+		margin-top: 21px;
+	}
+
+	#u481
+	{
+		z-index: 55;
+		height: 35px;
+		background-image: url("../images/mail-white-transparent-backround-u481-fr.png");
+		margin-top: 2px;
+		width: 3%;
+		left: 43.38%;
+	}
+
+	#u481:hover
+	{
+		background-image: url("../images/mail-grey-u481-r-fr.png");
+		margin-top: 2px;
+		height: 35px;
+		width: 3%;
+		margin-left: 0%;
+	}
+
+	#u482
+	{
+		z-index: 56;
+		height: 29px;
+		background-image: url("../images/linkedin-white-u482-fr.png");
+		margin-top: 6px;
+		width: 3%;
+		left: 48.5%;
+	}
+
+	#u482:hover
+	{
+		background-image: url("../images/linkedin-3-512-u482-r-fr.png");
+		margin-top: 6px;
+		height: 29px;
+		width: 3%;
+		margin-left: 0%;
+	}
+
+	#u483
+	{
+		z-index: 57;
+		height: 29px;
+		background-image: url("../images/facebook-white-on-black-u483-fr.png");
+		margin-top: 6px;
+		width: 3%;
+		left: 53.5%;
+	}
+
+	#u483:hover
+	{
+		background-image: url("../images/icon_facebook_grey-u483-r-fr.png");
+		margin-top: 6px;
+		height: 29px;
+		width: 3%;
+		margin-left: 0%;
+	}
+
+	.verticalspacer
+	{
+		min-height: 1px;
+	}
+}
+
+@media (min-width: 401px) and (max-width: 500px)
+{
+	#muse_css_mq
+	{
+		background-color: #0001f4;
+	}
+
+	#bp_500.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 470.55933045919755px;
+		padding-top: 20px;
+		padding-bottom: 9.440669540802446px;
+		max-width: 500px;
+	}
+
+	#u376-4
+	{
+		z-index: 51;
+		min-height: 47px;
+		position: relative;
+		width: 48%;
+		margin-left: 26%;
+	}
+
+	#tab-panelu230
+	{
+		z-index: 2;
+		min-height: 645px;
+	}
+
+	#u231
+	{
+		z-index: 3;
+	}
+
+	#u232
+	{
+		z-index: 4;
+	}
+
+	#u235
+	{
+		z-index: 6;
+		background-image: url("../images/u2353.png");
+	}
+
+	#u235 .fluid_height_spacer
+	{
+		padding-bottom: 15.6%;
+	}
+
+	#u232:hover #u235
+	{
+		background-image: url("../images/u235-r3.png");
+	}
+
+	#u232:active #u235
+	{
+		background-image: url("../images/u235-m3.png");
+	}
+
+	#u232.TabbedPanelsTabSelected #u235
+	{
+		background-image: url("../images/u235-a3.png");
+	}
+
+	#u236
+	{
+		z-index: 10;
+		width: 50.2%;
+		left: 49.8%;
+	}
+
+	#u236:hover
+	{
+		width: 50.2%;
+	}
+
+	#u236:active
+	{
+		width: 50.2%;
+	}
+
+	#u236.TabbedPanelsTabSelected
+	{
+		width: 50.2%;
+	}
+
+	#u238
+	{
+		z-index: 12;
+		background-image: url("../images/u2383.png");
+	}
+
+	#u238 .fluid_height_spacer
+	{
+		padding-bottom: 15.53784860557769%;
+	}
+
+	#u236:hover #u238
+	{
+		background-image: url("../images/u238-r3.png");
+	}
+
+	#u236:active #u238
+	{
+		background-image: url("../images/u238-m3.png");
+	}
+
+	#u236.TabbedPanelsTabSelected #u238
+	{
+		background-image: url("../images/u238-a3.png");
+	}
+
+	#u244
+	{
+		z-index: 16;
+	}
+
+	#u249
+	{
+		z-index: 17;
+		padding-top: 30px;
+		padding-bottom: 0px;
+	}
+
+	#u399
+	{
+		z-index: 28;
+		width: 39.81%;
+		margin-left: 29.6%;
+	}
+
+	#u399_img
+	{
+		width: 100.51%;
+	}
+
+	#u252-10
+	{
+		z-index: 18;
+		margin-top: 33px;
+		width: 87%;
+		margin-left: 6.2%;
+	}
+
+	#u253
+	{
+		z-index: 30;
+		padding-top: 41px;
+		padding-bottom: 33.15000000000009px;
+	}
+
+	#u717-7
+	{
+		z-index: 31;
+		width: 87.4%;
+		margin-left: 6%;
+	}
+
+	#u781-7
+	{
+		z-index: 41;
+		margin-top: 20px;
+		width: 87.4%;
+		margin-left: 6%;
+	}
+
+	#tab-panelu230-bw
+	{
+		z-index: 2;
+		min-height: 645px;
+		margin-top: 21px;
+	}
+
+	#pu481
+	{
+		margin-top: 3px;
+		width: 100%;
+	}
+
+	#u481
+	{
+		z-index: 55;
+		height: 50px;
+		background-image: url("../images/mail-white-transparent-backround.png");
+		width: 7.8%;
+		margin-left: 46.1%;
+		left: -45px;
+	}
+
+	#u481:hover
+	{
+		background-image: url("../images/mail-grey.png");
+		margin-top: 0px;
+		height: 50px;
+		width: 7.8%;
+		margin-left: 46.1%;
+		left: -45px;
+	}
+
+	#u482
+	{
+		z-index: 56;
+		height: 34px;
+		background-image: url("../images/linkedin-white.png");
+		margin-top: 7px;
+		width: 9.8%;
+		margin-left: 45.1%;
+		left: -1px;
+	}
+
+	#u482:hover
+	{
+		background-image: url("../images/linkedin-3-512.png");
+		margin-top: 7px;
+		height: 34px;
+		width: 9.8%;
+		margin-left: 45.1%;
+		left: -1px;
+	}
+
+	#u483
+	{
+		z-index: 57;
+		height: 34px;
+		background-image: url("../images/facebook-white-on-black.png");
+		margin-top: 8px;
+		width: 9.8%;
+		margin-left: 45.1%;
+		left: 44px;
+	}
+
+	#u483:hover
+	{
+		background-image: url("../images/icon_facebook_grey.png");
+		margin-top: 8px;
+		height: 34px;
+		width: 9.8%;
+		margin-left: 45.1%;
+		left: 44px;
+	}
+}
+
+@media (min-width: 321px) and (max-width: 400px)
+{
+	#muse_css_mq
+	{
+		background-color: #000190;
+	}
+
+	#bp_400.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 488px;
+		padding-bottom: 12px;
+		max-width: 400px;
+	}
+
+	#pu376-4
+	{
+		width: 0.01px;
+		margin-right: -10000px;
+		margin-top: 20px;
+	}
+
+	#u376-4,#u376-4-bw
+	{
+		z-index: 51;
+		min-height: 45px;
+	}
+
+	#tab-panelu230
+	{
+		z-index: 2;
+		min-height: 696px;
+		padding-bottom: 1px;
+	}
+
+	#u231
+	{
+		z-index: 3;
+	}
+
+	#u232
+	{
+		z-index: 4;
+		padding-bottom: 2px;
+	}
+
+	#u235
+	{
+		z-index: 6;
+		background-image: url("../images/u2354.png");
+		top: 1px;
+	}
+
+	#u235 .fluid_height_spacer
+	{
+		padding-bottom: 19.5%;
+	}
+
+	#u232:hover #u235
+	{
+		background-image: url("../images/u235-r4.png");
+	}
+
+	#u232:active #u235
+	{
+		background-image: url("../images/u235-m4.png");
+	}
+
+	#u232.TabbedPanelsTabSelected #u235
+	{
+		background-image: url("../images/u235-a4.png");
+	}
+
+	#u236
+	{
+		z-index: 10;
+		padding-bottom: 2px;
+		width: 50.25%;
+		left: 49.75%;
+	}
+
+	#u236:hover
+	{
+		width: 50.25%;
+	}
+
+	#u236:active
+	{
+		width: 50.25%;
+	}
+
+	#u236.TabbedPanelsTabSelected
+	{
+		width: 50.25%;
+	}
+
+	#u238
+	{
+		z-index: 12;
+		background-image: url("../images/u2384.png");
+		top: 1px;
+	}
+
+	#u238 .fluid_height_spacer
+	{
+		padding-bottom: 19.402985074626866%;
+	}
+
+	#u236:hover #u238
+	{
+		background-image: url("../images/u238-r4.png");
+	}
+
+	#u236:active #u238
+	{
+		background-image: url("../images/u238-m4.png");
+	}
+
+	#u236.TabbedPanelsTabSelected #u238
+	{
+		background-image: url("../images/u238-a4.png");
+	}
+
+	#u244
+	{
+		z-index: 16;
+	}
+
+	#u249
+	{
+		z-index: 17;
+		padding-top: 30px;
+		padding-bottom: 159.46511261261662px;
+	}
+
+	#u399
+	{
+		z-index: 28;
+		width: 39.75%;
+		margin-left: 29.75%;
+	}
+
+	#u399_img
+	{
+		width: 100%;
+	}
+
+	#u252-10
+	{
+		z-index: 18;
+		margin-top: 22px;
+		width: 90%;
+		margin-left: 5%;
+	}
+
+	#u253
+	{
+		z-index: 30;
+		padding-top: 26px;
+		padding-bottom: 0px;
+	}
+
+	#u717-7
+	{
+		z-index: 31;
+		width: 90.25%;
+		margin-left: 4.75%;
+	}
+
+	#u781-7
+	{
+		z-index: 41;
+		margin-top: 16px;
+		width: 90.25%;
+		margin-left: 5%;
+	}
+
+	#tab-panelu230-bw
+	{
+		z-index: 2;
+		min-height: 696px;
+		margin-top: 23px;
+	}
+
+	#u481
+	{
+		z-index: 55;
+		height: 46px;
+		background-image: url("../images/mail-white-transparent-backround.png");
+		margin-top: 4px;
+		width: 9.75%;
+		margin-left: 45.13%;
+		left: -46px;
+	}
+
+	#u481:hover
+	{
+		background-image: url("../images/mail-grey.png");
+		margin-top: 4px;
+		height: 46px;
+		width: 9.75%;
+		margin-left: 45.13%;
+		left: -46px;
+	}
+
+	#u482
+	{
+		z-index: 56;
+		height: 34px;
+		background-image: url("../images/linkedin-white.png");
+		margin-top: 10px;
+		width: 9.75%;
+		margin-left: 45.13%;
+		left: -1px;
+	}
+
+	#u482:hover
+	{
+		background-image: url("../images/linkedin-3-512.png");
+		margin-top: 10px;
+		height: 34px;
+		width: 9.75%;
+		margin-left: 45.13%;
+		left: -1px;
+	}
+
+	#u483
+	{
+		z-index: 57;
+		height: 34px;
+		background-image: url("../images/facebook-white-on-black.png");
+		margin-top: 10px;
+		width: 9.75%;
+		margin-left: 45.13%;
+		left: 44px;
+	}
+
+	#u483:hover
+	{
+		background-image: url("../images/icon_facebook_grey.png");
+		margin-top: 10px;
+		height: 34px;
+		width: 9.75%;
+		margin-left: 45.13%;
+		left: 44px;
+	}
+
+	.verticalspacer
+	{
+		min-height: 1px;
+	}
+}
+
+@media (max-width: 320px)
+{
+	#muse_css_mq
+	{
+		background-color: #000140;
+	}
+
+	#bp_320.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 487px;
+		padding-bottom: 13px;
+		max-width: 320px;
+	}
+
+	#pu376-4
+	{
+		width: 0.01px;
+		margin-right: -10000px;
+		margin-top: 20px;
+	}
+
+	#u376-4,#u376-4-bw
+	{
+		z-index: 51;
+		min-height: 47px;
+	}
+
+	#tab-panelu230
+	{
+		z-index: 2;
+		min-height: 632px;
+		padding-bottom: 1px;
+	}
+
+	#u231
+	{
+		z-index: 3;
+	}
+
+	#u232
+	{
+		z-index: 4;
+		padding-bottom: 2px;
+	}
+
+	#u235
+	{
+		z-index: 6;
+		background-image: url("../images/u2355.png");
+		top: 1px;
+	}
+
+	#u235 .fluid_height_spacer
+	{
+		padding-bottom: 24.375%;
+	}
+
+	#u232:hover #u235
+	{
+		background-image: url("../images/u235-r5.png");
+	}
+
+	#u232:active #u235
+	{
+		background-image: url("../images/u235-m5.png");
+	}
+
+	#u232.TabbedPanelsTabSelected #u235
+	{
+		background-image: url("../images/u235-a5.png");
+	}
+
+	#u236
+	{
+		z-index: 10;
+		padding-bottom: 2px;
+		width: 50.32%;
+		left: 49.69%;
+	}
+
+	#u236:hover
+	{
+		width: 50.32%;
+	}
+
+	#u236:active
+	{
+		width: 50.32%;
+	}
+
+	#u236.TabbedPanelsTabSelected
+	{
+		width: 50.32%;
+	}
+
+	#u238
+	{
+		z-index: 12;
+		background-image: url("../images/u2385.png");
+		top: 1px;
+	}
+
+	#u238 .fluid_height_spacer
+	{
+		padding-bottom: 24.22360248447205%;
+	}
+
+	#u236:hover #u238
+	{
+		background-image: url("../images/u238-r5.png");
+	}
+
+	#u236:active #u238
+	{
+		background-image: url("../images/u238-m5.png");
+	}
+
+	#u236.TabbedPanelsTabSelected #u238
+	{
+		background-image: url("../images/u238-a5.png");
+	}
+
+	#u244
+	{
+		z-index: 16;
+	}
+
+	#u249
+	{
+		z-index: 17;
+		padding-top: 17px;
+		padding-bottom: 120px;
+	}
+
+	#u399
+	{
+		z-index: 28;
+		width: 49.38%;
+		margin-left: 24.69%;
+	}
+
+	#u399_img
+	{
+		width: 100%;
+	}
+
+	#u252-10
+	{
+		z-index: 18;
+		margin-top: 17px;
+		width: 87.19%;
+		margin-left: 6.25%;
+	}
+
+	#u253
+	{
+		z-index: 30;
+		padding-top: 14px;
+		padding-bottom: 0px;
+	}
+
+	#u717-7
+	{
+		z-index: 31;
+		width: 87.82%;
+		margin-left: 6.25%;
+	}
+
+	#u781-7
+	{
+		z-index: 41;
+		margin-top: 20px;
+		width: 87.5%;
+		margin-left: 6.25%;
+	}
+
+	#tab-panelu230-bw
+	{
+		z-index: 2;
+		min-height: 632px;
+		margin-top: 21px;
+	}
+
+	#u481
+	{
+		z-index: 55;
+		height: 46px;
+		background-image: url("../images/mail-white-transparent-backround.png");
+		margin-top: 3px;
+		width: 9.69%;
+		margin-left: 45.16%;
+		left: -46px;
+	}
+
+	#u481:hover
+	{
+		background-image: url("../images/mail-grey.png");
+		margin-top: 3px;
+		height: 46px;
+		width: 9.69%;
+		margin-left: 45.16%;
+		left: -46px;
+	}
+
+	#u482
+	{
+		z-index: 56;
+		height: 34px;
+		background-image: url("../images/linkedin-white.png");
+		margin-top: 9px;
+		width: 9.69%;
+		margin-left: 45.16%;
+		left: -1px;
+	}
+
+	#u482:hover
+	{
+		background-image: url("../images/linkedin-3-512.png");
+		margin-top: 9px;
+		height: 34px;
+		width: 9.69%;
+		margin-left: 45.16%;
+		left: -1px;
+	}
+
+	#u483
+	{
+		z-index: 57;
+		height: 34px;
+		background-image: url("../images/facebook-white-on-black.png");
+		margin-top: 10px;
+		width: 9.69%;
+		margin-left: 45.16%;
+		left: 44px;
+	}
+
+	#u483:hover
+	{
+		background-image: url("../images/icon_facebook_grey.png");
+		margin-top: 10px;
+		height: 34px;
+		width: 9.69%;
+		margin-left: 45.16%;
+		left: 44px;
+	}
+
+	body
+	{
+		min-width: 200px;
+	}
+
+	.verticalspacer
+	{
+		min-height: 1px;
+	}
+}
+

@@ -1,0 +1,269 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 479px;
+		padding-bottom: 21px;
+		max-width: 960px;
+	}
+
+	#pu376-4
+	{
+		padding-bottom: 0px;
+		margin-right: -10000px;
+		margin-top: 20px;
+		width: 100%;
+	}
+
+	#u376-4
+	{
+		z-index: 52;
+		min-height: 47px;
+		position: relative;
+		width: 47.92%;
+		margin-left: 26.05%;
+	}
+
+	#pu222
+	{
+		margin-top: 31px;
+		width: 100%;
+	}
+
+	#u222
+	{
+		z-index: 2;
+		height: 548px;
+		position: relative;
+		margin-right: -10000px;
+		width: 45.11%;
+		background: transparent url("../images/tree-abstract-watercolour-steve-and-jenni-thorp.jpg") no-repeat center center;
+		background-size: cover;
+	}
+
+	#tab-panelu230
+	{
+		z-index: 3;
+		position: relative;
+		margin-right: -10000px;
+		width: 50%;
+		left: 50%;
+	}
+
+	#u231
+	{
+		z-index: 4;
+		position: relative;
+		width: 100%;
+	}
+
+	#u232
+	{
+		z-index: 5;
+	}
+
+	#u235
+	{
+		z-index: 7;
+		background-image: url("../images/u235.png");
+		margin-bottom: -5px;
+	}
+
+	#u235 .fluid_height_spacer
+	{
+		padding-bottom: 18.333333333333332%;
+	}
+
+	#u232:hover #u235
+	{
+		background-image: url("../images/u235-r.png");
+	}
+
+	#u232:active #u235
+	{
+		background-image: url("../images/u235-m.png");
+	}
+
+	#u232.TabbedPanelsTabSelected #u235
+	{
+		background-image: url("../images/u235-a.png");
+	}
+
+	#u236
+	{
+		z-index: 11;
+		width: 50.21%;
+		left: 49.8%;
+	}
+
+	#u236:hover
+	{
+		width: 50.21%;
+	}
+
+	#u236:active
+	{
+		width: 50.21%;
+	}
+
+	#u236.TabbedPanelsTabSelected
+	{
+		width: 50.21%;
+	}
+
+	#u238
+	{
+		z-index: 13;
+		background-image: url("../images/u238.png");
+		margin-bottom: -5px;
+	}
+
+	#u238 .fluid_height_spacer
+	{
+		padding-bottom: 18.25726141078838%;
+	}
+
+	#u236:hover #u238
+	{
+		background-image: url("../images/u238-r.png");
+	}
+
+	#u236:active #u238
+	{
+		background-image: url("../images/u238-m.png");
+	}
+
+	#u236.TabbedPanelsTabSelected #u238
+	{
+		background-image: url("../images/u238-a.png");
+	}
+
+	#u244
+	{
+		z-index: 17;
+		position: relative;
+		width: 100%;
+	}
+
+	#u249
+	{
+		z-index: 18;
+		padding-top: 30px;
+		padding-bottom: 4px;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u399
+	{
+		z-index: 29;
+		width: 35.84%;
+		margin-left: 31.67%;
+	}
+
+	#u399_img
+	{
+		width: 100%;
+	}
+
+	#u252-10
+	{
+		z-index: 19;
+		margin-top: 30px;
+		width: 91.25%;
+		margin-left: 4.59%;
+	}
+
+	#u253
+	{
+		z-index: 31;
+		padding-top: 30px;
+		padding-bottom: 25px;
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u717-7
+	{
+		z-index: 32;
+		width: 91.88%;
+		margin-left: 3.96%;
+	}
+
+	#u781-7
+	{
+		z-index: 42;
+		margin-top: 16px;
+		width: 91.88%;
+		margin-left: 3.96%;
+	}
+
+	#u481
+	{
+		z-index: 56;
+		height: 41px;
+		background-image: url("../images/mail-white-transparent-backround.png");
+		width: 3.03%;
+		left: 43.44%;
+	}
+
+	#u481:hover
+	{
+		background-image: url("../images/mail-grey.png");
+		margin-top: 0px;
+		height: 41px;
+		width: 3.03%;
+		margin-left: 0%;
+	}
+
+	#u482
+	{
+		z-index: 57;
+		height: 29px;
+		background-image: url("../images/linkedin-white.png");
+		margin-top: 6px;
+		width: 3.03%;
+		left: 48.55%;
+	}
+
+	#u482:hover
+	{
+		background-image: url("../images/linkedin-3-512.png");
+		margin-top: 6px;
+		height: 29px;
+		width: 3.03%;
+		margin-left: 0%;
+	}
+
+	#u483
+	{
+		z-index: 58;
+		height: 29px;
+		background-image: url("../images/facebook-white-on-black.png");
+		margin-top: 6px;
+		width: 3.03%;
+		left: 53.44%;
+	}
+
+	#u483:hover
+	{
+		background-image: url("../images/icon_facebook_grey.png");
+		margin-top: 6px;
+		height: 29px;
+		width: 3.03%;
+		margin-left: 0%;
+	}
+
+	.verticalspacer
+	{
+		min-height: 1px;
+	}
+
