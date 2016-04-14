@@ -68,18 +68,35 @@
 	#u232
 	{
 		z-index: 5;
+		min-height: 34px;
+		padding-bottom: 5px;
+	}
+
+	#u232:hover
+	{
+		min-height: 34px;
+	}
+
+	#u232:active
+	{
+		min-height: 34px;
+	}
+
+	#u232.TabbedPanelsTabSelected
+	{
+		min-height: 34px;
 	}
 
 	#u235
 	{
 		z-index: 7;
 		background-image: url("../images/u235.png");
-		margin-bottom: -5px;
+		top: 2px;
 	}
 
 	#u235 .fluid_height_spacer
 	{
-		padding-bottom: 18.333333333333332%;
+		padding-bottom: 14.166666666666666%;
 	}
 
 	#u232:hover #u235
@@ -100,22 +117,27 @@
 	#u236
 	{
 		z-index: 11;
+		min-height: 34px;
+		padding-bottom: 5px;
 		width: 50.21%;
 		left: 49.8%;
 	}
 
 	#u236:hover
 	{
+		min-height: 34px;
 		width: 50.21%;
 	}
 
 	#u236:active
 	{
+		min-height: 34px;
 		width: 50.21%;
 	}
 
 	#u236.TabbedPanelsTabSelected
 	{
+		min-height: 34px;
 		width: 50.21%;
 	}
 
@@ -123,12 +145,12 @@
 	{
 		z-index: 13;
 		background-image: url("../images/u238.png");
-		margin-bottom: -5px;
+		top: 2px;
 	}
 
 	#u238 .fluid_height_spacer
 	{
-		padding-bottom: 18.25726141078838%;
+		padding-bottom: 14.107883817427386%;
 	}
 
 	#u236:hover #u238
@@ -156,7 +178,7 @@
 	#u249
 	{
 		z-index: 18;
-		padding-top: 30px;
+		padding-top: 31px;
 		padding-bottom: 4px;
 		margin-right: -10000px;
 		width: 100%;
@@ -165,19 +187,14 @@
 	#u399
 	{
 		z-index: 29;
-		width: 35.84%;
-		margin-left: 31.67%;
-	}
-
-	#u399_img
-	{
-		width: 100%;
+		width: 36.25%;
+		margin-left: 31.88%;
 	}
 
 	#u252-10
 	{
 		z-index: 19;
-		margin-top: 30px;
+		margin-top: 31px;
 		width: 91.25%;
 		margin-left: 4.59%;
 	}
