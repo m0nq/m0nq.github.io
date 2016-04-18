@@ -18,27 +18,19 @@
 	#pu1300
 	{
 		padding-bottom: 62px;
-		margin-right: -10000px;
 	}
 
 	#u1300
 	{
 		height: 62px;
-		position: relative;
-		left: -50%;
 		margin-left: 480px;
-		width: 100%;
 		max-width: 960px;
 	}
 
 	#u1300-wrapper
 	{
-		position: fixed;
 		top: 0px;
-		z-index: 63;
-		left: 50%;
 		margin-left: -480px;
-		width: 100%;
 		max-width: 960px;
 	}
 
@@ -217,14 +209,9 @@
 	#u2010-4
 	{
 		min-height: 23px;
-		margin-right: -10000px;
 		margin-top: 11px;
 		width: 18.44%;
 		left: 40.84%;
 	}
 
-	.verticalspacer
-	{
-		min-height: 1px;
-	}
 
