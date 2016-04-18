@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="m0nq.github.io" resolutions="1x" timestamp="1460958033666">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="m0nq.github.io" resolutions="1x" timestamp="1461008834077">
   <folder name="css">
     <file name="site_global.css" crc="4059541353"/>
     <file name="index.css" crc="102497657" ref="index"/>
@@ -17,5 +17,5 @@
     <file name="dsc_0151-u1642-fr.jpg" crc="3999558088" ref="index"/>
     <file name="dsc_0151-u1642-fr2.jpg" crc="4003673229" ref="index"/>
   </folder>
-  <file name="index.html" crc="48583797" seo="true" mt="1460958013495" redirect="true"/>
+  <file name="index.html" crc="4043421525" seo="true" mt="1461008813691" redirect="true"/>
 </manifest>
