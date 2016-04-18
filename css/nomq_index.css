@@ -10,273 +10,213 @@
 
 	#page
 	{
-		min-height: 479px;
-		padding-bottom: 21px;
+		min-height: 472px;
+		padding-bottom: 28px;
 		max-width: 960px;
 	}
 
-	#pu376-4
+	#pu1300
 	{
-		padding-bottom: 0px;
 		margin-right: -10000px;
-		margin-top: 20px;
+		margin-top: 1px;
+	}
+
+	#u1300
+	{
+		position: relative;
+		left: -50%;
+		margin-left: 480px;
 		width: 100%;
+		max-width: 960px;
 	}
 
-	#u376-4
+	#u1300-wrapper
 	{
-		z-index: 52;
-		min-height: 47px;
-		position: relative;
-		width: 47.92%;
-		margin-left: 26.05%;
-	}
-
-	#pu222
-	{
-		margin-top: 31px;
-		width: 100%;
-	}
-
-	#u222
-	{
-		z-index: 2;
-		height: 548px;
-		position: relative;
-		margin-right: -10000px;
-		width: 45.11%;
-		background: transparent url("../images/tree-abstract-watercolour-steve-and-jenni-thorp.jpg") no-repeat center center;
-		background-size: cover;
-	}
-
-	#tab-panelu230
-	{
-		z-index: 3;
-		position: relative;
-		margin-right: -10000px;
-		width: 50%;
+		position: fixed;
+		top: 1px;
+		z-index: 63;
 		left: 50%;
+		margin-left: -480px;
+		width: 100%;
+		max-width: 960px;
 	}
 
-	#u231
+	#u1417-4
 	{
-		z-index: 4;
+		min-height: 50px;
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+		line-height: 46px;
+		color: #FFFFFF;
+		text-align: center;
+		font-size: 38px;
+		font-family: poiret-one, sans-serif;
+		font-weight: 400;
 		position: relative;
+		left: -50%;
+		margin-left: 146px;
 		width: 100%;
+		max-width: 292px;
 	}
 
-	#u232
+	#u1417-4:hover
 	{
-		z-index: 5;
-		min-height: 34px;
-		padding-bottom: 5px;
-	}
-
-	#u232:hover
-	{
-		min-height: 34px;
-	}
-
-	#u232:active
-	{
-		min-height: 34px;
-	}
-
-	#u232.TabbedPanelsTabSelected
-	{
-		min-height: 34px;
-	}
-
-	#u235
-	{
-		z-index: 7;
-		background-image: url("../images/u235.png");
-		top: 2px;
-	}
-
-	#u235 .fluid_height_spacer
-	{
-		padding-bottom: 14.166666666666666%;
-	}
-
-	#u232:hover #u235
-	{
-		background-image: url("../images/u235-r.png");
-	}
-
-	#u232:active #u235
-	{
-		background-image: url("../images/u235-m.png");
-	}
-
-	#u232.TabbedPanelsTabSelected #u235
-	{
-		background-image: url("../images/u235-a.png");
-	}
-
-	#u236
-	{
-		z-index: 11;
-		min-height: 34px;
-		padding-bottom: 5px;
-		width: 50.21%;
-		left: 49.8%;
-	}
-
-	#u236:hover
-	{
-		min-height: 34px;
-		width: 50.21%;
-	}
-
-	#u236:active
-	{
-		min-height: 34px;
-		width: 50.21%;
-	}
-
-	#u236.TabbedPanelsTabSelected
-	{
-		min-height: 34px;
-		width: 50.21%;
-	}
-
-	#u238
-	{
-		z-index: 13;
-		background-image: url("../images/u238.png");
-		top: 2px;
-	}
-
-	#u238 .fluid_height_spacer
-	{
-		padding-bottom: 14.107883817427386%;
-	}
-
-	#u236:hover #u238
-	{
-		background-image: url("../images/u238-r.png");
-	}
-
-	#u236:active #u238
-	{
-		background-image: url("../images/u238-m.png");
-	}
-
-	#u236.TabbedPanelsTabSelected #u238
-	{
-		background-image: url("../images/u238-a.png");
-	}
-
-	#u244
-	{
-		z-index: 17;
-		position: relative;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 50px;
 		width: 100%;
+		max-width: 292px;
+		margin: 0px 0px 0px 146px;
 	}
 
-	#u249
+	#u1417-4:hover p,#u1417-4:hover h1
 	{
-		z-index: 18;
-		padding-top: 31px;
-		padding-bottom: 4px;
+		color: #FFFFFF;
+		visibility: inherit;
+	}
+
+	#u1417-4-wrapper
+	{
+		position: fixed;
+		top: 12px;
+		z-index: 64;
+		left: 50%;
+		margin-left: -480px;
+		width: 30.42%;
+		max-width: 292px;
+	}
+
+	#top
+	{
+		width: 22px;
 		margin-right: -10000px;
-		width: 100%;
+		margin-top: 3px;
+		left: 156px;
 	}
 
-	#u399
+	#u1642
 	{
-		z-index: 29;
-		width: 36.25%;
-		margin-left: 31.88%;
-	}
-
-	#u252-10
-	{
-		z-index: 19;
-		margin-top: 31px;
-		width: 91.25%;
-		margin-left: 4.59%;
-	}
-
-	#u253
-	{
-		z-index: 31;
-		padding-top: 30px;
-		padding-bottom: 25px;
+		background-image: url("../images/dsc_0151.jpg");
 		margin-right: -10000px;
+		margin-top: 166px;
+		width: 67.5%;
+		left: 16.25%;
+	}
+
+	#about
+	{
+		width: 22px;
+		margin-right: -10000px;
+		margin-top: 454px;
+		left: 156px;
+	}
+
+	#pu252-36
+	{
+		margin-right: -10000px;
+		margin-top: 496px;
+		width: 67.61%;
+		margin-left: 16.15%;
+	}
+
+	#u252-36
+	{
+		min-height: 457px;
+		line-height: 28px;
+		font-size: 20px;
+		width: 99.85%;
+		margin-left: 0.16%;
+	}
+
+	#u1957
+	{
+		margin-top: 81px;
 		width: 100%;
 	}
 
-	#u717-7
+	#portfolio
 	{
-		z-index: 32;
-		width: 91.88%;
-		margin-left: 3.96%;
+		width: 22px;
+		margin-right: -10000px;
+		margin-top: 1035px;
+		left: 155px;
 	}
 
-	#u781-7
+	#u1874-19
 	{
-		z-index: 42;
-		margin-top: 16px;
-		width: 91.88%;
-		margin-left: 3.96%;
+		min-height: 457px;
+		margin-right: -10000px;
+		margin-top: 1117px;
+		width: 67.5%;
+		left: 16.25%;
 	}
 
-	#u481
+	#u1874-2
 	{
-		z-index: 56;
-		height: 41px;
-		background-image: url("../images/mail-white-transparent-backround.png");
-		width: 3.03%;
-		left: 43.44%;
+		font-size: 28px;
+		line-height: 39px;
 	}
 
-	#u481:hover
+	#u1874-13
 	{
-		background-image: url("../images/mail-grey.png");
-		margin-top: 0px;
-		height: 41px;
-		width: 3.03%;
-		margin-left: 0%;
+		font-size: 17px;
+		line-height: 24px;
 	}
 
-	#u482
+	#u1874-12,#u1874-15,#u1874-17
 	{
-		z-index: 57;
-		height: 29px;
-		background-image: url("../images/linkedin-white.png");
-		margin-top: 6px;
-		width: 3.03%;
-		left: 48.55%;
+		font-size: 17px;
+		line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 	}
 
-	#u482:hover
+	#u1874-7,#u1874-8,#u1874-9,#u1874-11,#u1874-14,#u1874-16
 	{
-		background-image: url("../images/linkedin-3-512.png");
-		margin-top: 6px;
-		height: 29px;
-		width: 3.03%;
-		margin-left: 0%;
+		font-size: 20px;
+		line-height: 28px;
 	}
 
-	#u483
+	#u1314-4
 	{
-		z-index: 58;
-		height: 29px;
-		background-image: url("../images/facebook-white-on-black.png");
-		margin-top: 6px;
-		width: 3.03%;
-		left: 53.44%;
+		margin-left: 59.5px;
+		max-width: 119px;
 	}
 
-	#u483:hover
+	#u1314-4-wrapper
 	{
-		background-image: url("../images/icon_facebook_grey.png");
-		margin-top: 6px;
-		height: 29px;
-		width: 3.03%;
-		margin-left: 0%;
+		top: 20px;
+		margin-left: 205px;
+		width: 12.4%;
+		max-width: 119px;
+	}
+
+	#u1321-4
+	{
+		margin-left: 59.5px;
+		max-width: 119px;
+	}
+
+	#u1314-4:hover,#u1321-4:hover
+	{
+		margin-left: 60px;
+		max-width: 119px;
+	}
+
+	#u1321-4-wrapper
+	{
+		top: 20px;
+		margin-left: 361px;
+		width: 12.4%;
+		max-width: 119px;
+	}
+
+	#u2010-4
+	{
+		min-height: 23px;
+		margin-right: -10000px;
+		margin-top: 11px;
+		width: 18.44%;
+		left: 40.84%;
 	}
 
 	.verticalspacer
