@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="m0nq.github.io" resolutions="1x" timestamp="1460957767810">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="m0nq.github.io" resolutions="1x" timestamp="1460958033666">
   <folder name="css">
     <file name="site_global.css" crc="4059541353"/>
-    <file name="index.css" crc="4214506991" ref="index"/>
-    <file name="nomq_index.css" crc="188736337" ref="index"/>
+    <file name="index.css" crc="102497657" ref="index"/>
+    <file name="nomq_index.css" crc="3956182302" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -17,5 +17,5 @@
     <file name="dsc_0151-u1642-fr.jpg" crc="3999558088" ref="index"/>
     <file name="dsc_0151-u1642-fr2.jpg" crc="4003673229" ref="index"/>
   </folder>
-  <file name="index.html" crc="31803719" seo="true" mt="1460957728755" redirect="true"/>
+  <file name="index.html" crc="48583797" seo="true" mt="1460958013495" redirect="true"/>
 </manifest>

@@ -73,7 +73,7 @@
 	{
 		position: fixed;
 		top: 11px;
-		z-index: 64;
+		z-index: 66;
 		left: 50%;
 		margin-left: -480px;
 		width: 30.42%;
@@ -136,7 +136,7 @@
 		left: 155px;
 	}
 
-	#u1874-19
+	#u1874-21
 	{
 		min-height: 457px;
 		margin-right: -10000px;
@@ -157,13 +157,13 @@
 		line-height: 24px;
 	}
 
-	#u1874-12,#u1874-15,#u1874-17
+	#u1874-12,#u1874-15,#u1874-17,#u1874-19
 	{
 		font-size: 17px;
 		line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 	}
 
-	#u1874-7,#u1874-8,#u1874-9,#u1874-11,#u1874-14,#u1874-16
+	#u1874-7,#u1874-8,#u1874-9,#u1874-11,#u1874-14,#u1874-16,#u1874-18
 	{
 		font-size: 20px;
 		line-height: 28px;
