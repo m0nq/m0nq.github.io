@@ -3,7 +3,7 @@
 ### About
 My name's Monk.
 
-I'm a full-stack web developer, and studying mathematician. I've been in San Francisco for over 10 years, and have watched the city reinvent itself everyday.
+I'm a certified web developer from [General Assembly](https://generalassemb.ly/). I'm also a studying mathematician, and self-taught video editor, dancer, and DJ. I've been in San Francisco for over 10 years, and have watched the city reinvent itself everyday.
 
 The evolving dynamics, the people, this environment keeps this city alive, and keeps me inspired.
 
@@ -13,7 +13,7 @@ You can also usually find me on [LinkedIn](https://www.linkedin.com/monkwellingt
 
 Sometimes I post my thoughts on [Medium](https://www.medium.com/@monqwellington).
 
-### Portfolio
+### Projects
 
 [The Queue](https://the-queue.herokuapp.com/) is a system to inspire people to stay in school, and attain their educational goals. This is done by paying people with a Bitcoin like crypto-currency called Chips that can be used to pay for the various online educational platforms that offer certification from some of the top tier schools in the world through MOOC platforms.
 
