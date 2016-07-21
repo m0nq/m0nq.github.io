@@ -1,0 +1,88 @@
+body {
+  font-family: 'Poiret One', 'Helvetica Neue', sans-serif;
+  padding-top: 70px;
+  background-color: #111;
+  color: #999999;
+}
+
+.navbar {
+  font-size: 2.3em;
+  color: black;
+  background-color: #111;
+  border-bottom: 1px solid #64D1FF;
+  padding: .7% 0;
+}
+
+.navbar-brand {
+  font-size: 1.3em;
+  margin-top: 1px;
+  overflow-y: visible;
+}
+
+.navbar-nav>li>.dropdown-menu {
+  background-color: #111;
+}
+
+.dropdown-menu>li>a {
+  color: #64D1FF;
+}
+
+.dropdown-menu>li>a:hover {
+  background-color: #111;
+  color: #fff;
+}
+
+.main-image {
+  margin-top: 80px;
+  margin-bottom: 40px;
+  max-height: 360px;
+  object-fit: cover;
+}
+
+.content-container {
+  border-bottom: 1px solid #64D1FF;
+  padding-bottom: 5%;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 1.4em;
+  padding: .5% 0;
+  line-height: 1.6em;
+}
+
+img {
+  width: 648px;
+  margin: 4px 0 4px 0;
+}
+
+#projects {
+  margin-top: 5%;
+}
+
+.link {
+  color: #64D1FF;
+}
+
+.link:visited {
+  color: #D352FF;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.link:focus {
+  color: white;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+
+  .navbar-nav li {
+    text-align: right;
+  }
+}
