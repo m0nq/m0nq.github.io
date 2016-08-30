@@ -29,7 +29,7 @@ $(function () {
         break;
       case 'Monk Wellington':
         $('html, body').animate({
-          scrollTop : $('#top').offset().top - 80
+          scrollTop : $('#top').offset().top
         }, 600);
         break;
     }
