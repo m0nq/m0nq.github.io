@@ -70,16 +70,75 @@
           <p class="row text-justify">
             <a href="https://truemeet.herokuapp.com/" class="link">True Meet</a> is a brochureware site for the True Academy meetup to display featured artist, date/times, and locations of upcoming events.
           </p>
-          <p class="row text-justify">
-            <a href="https://the-queue.herokuapp.com/" class="link">The Queue</a> is a system to inspire people to stay in school, and attain their educational goals. This is done by paying people with a Bitcoin like crypto-currency called Chips that can be used to pay for the various online educational platforms that offer certification from some of the top tier schools in the world through MOOC platforms.
-          </p>
+          <div class="row text-center">
+            <h1 id="video">Video</h1>
+            <!-- Trigger the modal with a button -->
+            <!-- PHC description and player -->
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 text-center">
+              <!-- playback image -->
+              <!-- <img src="" alt=""> -->
+              <button type="button" class="btn btn-link" data-toggle="modal" data-target="#phcModal">
+                LGBTQ Connect<br/>
+              </button>
+              <p class="text-justify">Created for <a id="phc" href="https://www.projecthomelessconnect.org/">Project Homeless Connect</a>, shown in front of City Hall during San Francisco's Gay Pride event.</p>
+            </div>
+            <!-- SAM description and player -->
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 text-center">
+              <!-- playback image -->
+              <!-- <img src="" alt=""> -->
+              <button type="button" class="btn btn-link" data-toggle="modal" data-target="#sam">
+                Shadows of the Auto-Maiden<br/>
+              </button>
+              <p>A street dance battle: <br>Cyborg vs. Joe-Dat-Go</p>
+            </div>
+          </div>
 
-          <h1 class="row text-center" id="video">Video</h1>
-          <!-- PHC description and player -->
-          <!-- SAM description and player -->
+          <!-- PHC Modal -->
+          <div id="phcModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
 
-          <h1 class="row text-center" id="audio">Audio</h1>
-          <!-- soundcloud player here -->
+              <!-- Modal content-->
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                  <h4 class="modal-title">LGBTQ Connect</h4>
+                </div>
+                <div class="modal-body">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/OcmnjBSn9q8?list=FLAE3MkRDc2Av2x-q63M5JLQ" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <!-- SAM Modal -->
+          <div id="sam" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+
+              <!-- Modal content-->
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                  <h4 class="modal-title">Shadows of the Auto-Maiden</h4>
+                </div>
+                <div class="modal-body">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/qBCn1FYeNPI" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="row col-sm-12">
+            <h1 class="row text-center" id="audio">Audio</h1>
+            <!-- soundcloud player here -->
+          </div>
         </div>
       </div>
     </div>

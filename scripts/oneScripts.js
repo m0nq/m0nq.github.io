@@ -34,4 +34,9 @@ $(function () {
         break;
     }
   });
+
+  $('.modal').modal({
+    keyboard: true,
+    show: false
+  });
 });

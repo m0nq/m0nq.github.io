@@ -61,7 +61,11 @@ img {
   margin-top: 5%;
 }
 
-.link {
+#audio {
+  margin-top: 10px;
+}
+
+.link, #phc {
   color: #64D1FF;
 }
 
@@ -78,6 +82,19 @@ img {
 .link:focus {
   color: white;
   text-decoration: none;
+}
+
+.btn {
+  font-size: 1.5em;
+  color: #64D1FF;
+}
+
+.btn>a {
+  color: white;
+  text-decoration: none;
+}
+.btn:visited {
+
 }
 
 @media screen and (max-width: 768px) {
