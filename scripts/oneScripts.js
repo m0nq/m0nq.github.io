@@ -16,18 +16,19 @@ $(function () {
   });
 
   $('a').click(function (e) {
-    e.preventDefault();
     var $section = $(this).context.innerText;
     switch ($section) {
       case 'Web':
       case 'Video':
       case 'Audio':
       case 'About':
+        e.preventDefault();
         $('html, body').animate({
           scrollTop : $('#' + $section.toLowerCase()).offset().top - 80
         }, 600);
         break;
       case 'Monk Wellington':
+        e.preventDefault();
         $('html, body').animate({
           scrollTop : $('#top').offset().top
         }, 600);
