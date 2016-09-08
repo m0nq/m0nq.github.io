@@ -36,7 +36,8 @@ $(function () {
   });
 
   $('.modal').modal({
-    keyboard: true,
+    backdrop: false,
+    keyboard: false,
     show: false
   });
 });
