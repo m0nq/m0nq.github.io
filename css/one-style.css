@@ -69,17 +69,17 @@ img {
   color: #64D1FF;
 }
 
-.link:visited {
-  color: #D352FF;
+.link:visited, #phc:visited {
+  color: #64D1FF;
   text-decoration: none;
 }
 
-.link:hover {
+.link:hover, #phc:hover {
   color: white;
   text-decoration: none;
 }
 
-.link:focus {
+.link:focus, #phc:focus {
   color: white;
   text-decoration: none;
 }
@@ -89,12 +89,19 @@ img {
   color: #64D1FF;
 }
 
-.btn>a {
+.btn:visited {
+  color: #64D1FF;
+  text-decoration: none;
+}
+
+.btn:hover {
   color: white;
   text-decoration: none;
 }
-.btn:visited {
 
+.btn:focus {
+  color: white;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 768px) {
