@@ -41,4 +41,6 @@ $(function () {
     keyboard: true,
     show: false
   });
+
+  // register a listener on #phcModal, click button, and 'x' for when clicked, it stops the iframe video from playing
 });

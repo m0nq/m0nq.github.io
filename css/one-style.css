@@ -69,17 +69,17 @@ img {
   color: #64D1FF;
 }
 
-.link:visited, #phc:visited {
+.link:visited, #phc:visited, .btn:visited {
   color: #64D1FF;
   text-decoration: none;
 }
 
-.link:hover, #phc:hover {
+.link:hover, #phc:hover, .btn:hover {
   color: white;
   text-decoration: none;
 }
 
-.link:focus, #phc:focus {
+.link:focus, #phc:focus, .btn:focus {
   color: white;
   text-decoration: none;
 }
@@ -89,24 +89,26 @@ img {
   color: #64D1FF;
 }
 
-.btn:visited {
-  color: #64D1FF;
-  text-decoration: none;
-}
+.modal-dialog {
 
-.btn:hover {
-  color: white;
-  text-decoration: none;
-}
-
-.btn:focus {
-  color: white;
-  text-decoration: none;
 }
 
 @media screen and (max-width: 768px) {
 
   .navbar-nav li {
     text-align: right;
+  }
+
+  .video {
+    width: 700px;
+    height: 320px;
+  }
+}
+
+@media screen and (max-width: 736px){
+  .video {
+    text-align: center;
+    width: 714;
+    height: 355px;
   }
 }
