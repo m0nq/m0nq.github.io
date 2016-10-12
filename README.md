@@ -15,10 +15,6 @@ Sometimes I post my thoughts on [Medium](https://www.medium.com/@monqwellington)
 
 ### Projects
 
-[The Queue](https://the-queue.herokuapp.com/) is a system to inspire people to stay in school, and attain their educational goals. This is done by paying people with a Bitcoin like crypto-currency called Chips that can be used to pay for the various online educational platforms that offer certification from some of the top tier schools in the world through MOOC platforms.
+[The BooqStore](https://booqstore.herokuapp.com/) is a full CRUD application to store and locate online books for your own specified categories, authors, and publishers. As well as links to images for those books found to save for later.
 
-[Homeward](https://homewardbound.herokuapp.com/) is a platform for sharing information about lost and found dogs around SF neighborhoods. This was a collaborative project where I built the web server and database, and managed the remote git repo for our team.
-
-You can use this to log in.
-email: test_cbuypdg_user@tfbnw.net
-password: homewardtest
+[True Meet](https://truemeet.herokuapp.com) is a brochureware site for the True Academy meetup to display featured artist, date/times, and locations of upcoming events.
