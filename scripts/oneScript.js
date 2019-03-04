@@ -1,35 +1,36 @@
-$(function() {
-  $(window).load(function swapper() {
+$(function () {
+  $(window).load(function swapper () {
     if (window.innerWidth < 480) {
-      $('.navbar-brand').text("MW");
+      $('.navbar-brand').text('MW');
     } else {
-      $('.navbar-brand').text("Monk Wellington");
+      $('.navbar-brand').text('Monk Wellington');
     }
   });
 
-  $(window).resize(function() {
+  $(window).resize(function () {
     if (window.innerWidth < 480) {
-      $('.navbar-brand').text("MW");
+      $('.navbar-brand').text('MW');
     } else {
-      $('.navbar-brand').text("Monk Wellington");
+      $('.navbar-brand').text('Monk Wellington');
     }
   });
 
-  $('a').click(function(e) {
+  $('a').click(function (e) {
     var $section = $(this).context.innerText;
+    var $body = $('html, body');
     switch ($section) {
       case 'Web':
       case 'Video':
       case 'Audio':
       case 'About':
         e.preventDefault();
-        $('html, body').animate({
+        $body.animate({
           scrollTop: $('#' + $section.toLowerCase()).offset().top - 80
         }, 600);
         break;
       case 'Monk Wellington':
         e.preventDefault();
-        $('html, body').animate({
+        $body.animate({
           scrollTop: $('#top').offset().top
         }, 600);
         break;
